@@ -2,6 +2,8 @@ In this project, let's build **Nxt Watch** by applying the concepts we have lear
 
 ### Refer to the videos below:
 
+<a href='https://nxtwatcher.ccbp.tech/login' target='_blank'>NxtWatch</a>
+
 **Success View** <br/>
 
 <div style="text-align: center;">
